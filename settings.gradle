@@ -1,0 +1,2 @@
+rootProject.name='ActivityVide'
+include ':app'
